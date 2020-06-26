@@ -1,0 +1,14 @@
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\LoggingService.deps.json
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\LoggingService.dll
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\LoggingService.pdb
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.csprojAssemblyReference.cache
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfoInputs.cache
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfo.cs
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.dll
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.pdb
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.csproj.CopyComplete
+C:\Users\RidgewellM\source\CIB-PhoneBook\LoggingServi\obj\Debug\netcoreapp3.1\LoggingService.csproj.CoreCompileInputs.cache
