@@ -5,9 +5,11 @@ using System.Text;
 
 namespace Entities
 {
-    public class PhoneBook
-    {
-        public int Id { get; set; }
-        public IQueryable<Entry> Entries { get; set; }
-    }
+  public class PhoneBook
+  {
+    public int Id { get; set; }
+
+    public string Name { get; set; }
+    public List<Entry> Entries { get; set; }
+  }
 }
